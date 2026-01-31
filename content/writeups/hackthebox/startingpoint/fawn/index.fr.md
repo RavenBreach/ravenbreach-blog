@@ -3,9 +3,10 @@ title: "Fawn"
 date: 2025-11-24
 description: "Une connexion anonyme sur FTP?"
 draft: false
+featureimage: featured.gif
 
 # Tes taxonomies (correspondant à ton hugo.toml)
-tags: ["Misconfiguration", "Nmap", "FTP"]
+tags: ["Misconfiguration", "Nmap", "FTP", "Linux"]
 categories: ["Writeups", "Hack The Box", "Starting Point"]
 ---
 
