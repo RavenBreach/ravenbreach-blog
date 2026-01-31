@@ -6,7 +6,7 @@ draft: false
 featureimage: featured.gif
 
 # Tes taxonomies (correspondant à ton hugo.toml)
-tags: ["Misconfiguration", "Nmap", "FTP", "Linux"]
+tags: ["Misconfiguration", "Protocol", "Nmap", "FTP", "Linux"]
 categories: ["Writeups", "Hack The Box", "Starting Point"]
 ---
 
