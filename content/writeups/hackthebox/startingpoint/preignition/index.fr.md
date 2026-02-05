@@ -5,7 +5,7 @@ description: "Touchons un peu au web."
 draft: false
 
 # Tes taxonomies (correspondant à ton hugo.toml)
-tags: ["Misconfiguration", "Web", "Nmap", "GoBuster", "Nginx", "Linux", "VIP", "Passwords"]
+tags: ["Misconfiguration", "Web", "Nmap", "GoBuster", "Nginx", "Linux", "VIP", "Passwords", "Tier 0"]
 categories: ["Writeups", "Hack The Box", "Starting Point"]
 ---
 
@@ -141,3 +141,13 @@ Cette machine **Preignition** nous montre deux vulnérabilités très courantes 
 **Leçon du jour** : Toujours changer les mots de passe par défaut dès l’installation d’un service !
 
 La machine est ***pwned*** !
+
+<!-- ---
+
+## Pour aller plus loin
+
+### Script automatisé
+Ce n'est pas encore fait mais je prévois de faire un script automatisé !
+
+### Rapport professionnel
+Ce n'est pas encore fait mais je prévois de faire un rapport professionnel ! -->
