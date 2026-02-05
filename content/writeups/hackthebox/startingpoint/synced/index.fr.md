@@ -147,3 +147,13 @@ La faille ici résidait dans le fichier de configuration **/etc/rsyncd.conf**. E
 La leçon a retenir est de ne jamais exposer rsync sans authentification (paramètre auth users) et restreindre l’accès par IP pour que seuls les serveurs de backup autorisés puissent se connecter.
 
 La machine est ***pwn*** !
+
+<!-- ---
+
+## Pour aller plus loin
+
+### Script automatisé
+Ce n'est pas encore fait mais je prévois de faire un script automatisé !
+
+### Rapport professionnel
+Ce n'est pas encore fait mais je prévois de faire un rapport professionnel ! -->

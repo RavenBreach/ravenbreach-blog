@@ -217,3 +217,13 @@ Qu’est-ce qui s’est passé ici ? **MongoDB**, dans ses anciennes configurati
 Leçon du jour : Une base de données ne doit JAMAIS être exposée sur le réseau public sans une authentification robuste et, idéalement, un accès limité par IP (Whitelist).
 
 La machine est ***pwned*** !
+
+<!-- ---
+
+## Pour aller plus loin
+
+### Script automatisé
+Ce n'est pas encore fait mais je prévois de faire un script automatisé !
+
+### Rapport professionnel
+Ce n'est pas encore fait mais je prévois de faire un rapport professionnel ! -->

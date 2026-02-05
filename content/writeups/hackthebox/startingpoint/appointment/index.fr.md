@@ -159,3 +159,13 @@ Cette machine illustre la vulnérabilité **SQL Injection** (**SQLi**). C’est 
 **Comment s’en protéger** ? En tant que développeur, il ne faut jamais insérer directement des variables dans une requête SQL. On utilise des **requêtes préparées** (Prepared Statements). Avec elles, le serveur sait faire la différence entre une commande SQL et une simple donnée envoyée par l’utilisateur.
 
 La machine est ***pwned*** !
+
+<!-- ---
+
+## Pour aller plus loin
+
+### Script automatisé
+Ce n'est pas encore fait mais je prévois de faire un script automatisé !
+
+### Rapport professionnel
+Ce n'est pas encore fait mais je prévois de faire un rapport professionnel ! -->
