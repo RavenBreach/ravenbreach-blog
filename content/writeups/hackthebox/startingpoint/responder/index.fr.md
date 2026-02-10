@@ -5,7 +5,7 @@ description: "Exploitation d'une LFI pour voler des credentials NetNTLMv2."
 draft: false
 
 # Tes taxonomies (correspondant à ton hugo.toml)
-tags: ["RFI", "LFI", "SMB", "Responder", "NetNTLMv2", "WinRM", "Web", "Windows", "John The Ripper", "Evil-WinRM", Tier 1"]
+tags: ["RFI", "LFI", "SMB", "Responder", "NetNTLMv2", "WinRM", "Web", "Windows", "John The Ripper", "Evil-WinRM", "Tier 1"]
 categories: ["Writeups", "Hack The Box", "Starting Point"]
 ---
 
